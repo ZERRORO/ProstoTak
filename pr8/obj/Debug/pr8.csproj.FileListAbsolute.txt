@@ -1,0 +1,11 @@
+E:\Документы-stud\prog\pr8\bin\Debug\pr8.exe.config
+E:\Документы-stud\prog\pr8\bin\Debug\pr8.exe
+E:\Документы-stud\prog\pr8\bin\Debug\pr8.pdb
+E:\Документы-stud\prog\pr8\obj\Debug\pr8.csproj.AssemblyReference.cache
+E:\Документы-stud\prog\pr8\obj\Debug\pr8.DataBase.resources
+E:\Документы-stud\prog\pr8\obj\Debug\pr8.Form1.resources
+E:\Документы-stud\prog\pr8\obj\Debug\pr8.Properties.Resources.resources
+E:\Документы-stud\prog\pr8\obj\Debug\pr8.csproj.GenerateResource.cache
+E:\Документы-stud\prog\pr8\obj\Debug\pr8.csproj.CoreCompileInputs.cache
+E:\Документы-stud\prog\pr8\obj\Debug\pr8.exe
+E:\Документы-stud\prog\pr8\obj\Debug\pr8.pdb

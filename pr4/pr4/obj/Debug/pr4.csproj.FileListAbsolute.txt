@@ -1,0 +1,15 @@
+E:\Документы-stud\prog\pr4\pr4\bin\Debug\pr4.exe.config
+E:\Документы-stud\prog\pr4\pr4\bin\Debug\pr4.exe
+E:\Документы-stud\prog\pr4\pr4\bin\Debug\pr4.pdb
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.csproj.AssemblyReference.cache
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.Properties.Resources.resources
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.csproj.GenerateResource.cache
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.csproj.CoreCompileInputs.cache
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.exe
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.pdb
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.z1.resources
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.z2.resources
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.Form1.resources
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.z3.resources
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.z4.resources
+E:\Документы-stud\prog\pr4\pr4\obj\Debug\pr4.z5.resources

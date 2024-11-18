@@ -1,0 +1,10 @@
+E:\Документы-stud\prog\pr7\bin\Debug\pr7.exe.config
+E:\Документы-stud\prog\pr7\bin\Debug\pr7.exe
+E:\Документы-stud\prog\pr7\bin\Debug\pr7.pdb
+E:\Документы-stud\prog\pr7\obj\Debug\pr7.csproj.AssemblyReference.cache
+E:\Документы-stud\prog\pr7\obj\Debug\pr7.Form1.resources
+E:\Документы-stud\prog\pr7\obj\Debug\pr7.Properties.Resources.resources
+E:\Документы-stud\prog\pr7\obj\Debug\pr7.csproj.GenerateResource.cache
+E:\Документы-stud\prog\pr7\obj\Debug\pr7.csproj.CoreCompileInputs.cache
+E:\Документы-stud\prog\pr7\obj\Debug\pr7.exe
+E:\Документы-stud\prog\pr7\obj\Debug\pr7.pdb

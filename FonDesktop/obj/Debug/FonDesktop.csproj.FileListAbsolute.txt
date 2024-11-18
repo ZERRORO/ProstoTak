@@ -1,0 +1,14 @@
+D:\ip212\FonDesktop\bin\Debug\FonDesktop.exe.config
+D:\ip212\FonDesktop\bin\Debug\FonDesktop.exe
+D:\ip212\FonDesktop\bin\Debug\FonDesktop.pdb
+D:\ip212\FonDesktop\obj\Debug\FonDesktop.csproj.AssemblyReference.cache
+D:\ip212\FonDesktop\obj\Debug\FonDesktop.csproj.CoreCompileInputs.cache
+D:\ip212\FonDesktop\obj\Debug\FonDesktop.exe
+D:\ip212\FonDesktop\obj\Debug\FonDesktop.pdb
+E:\Документы-stud\prog\FonDesktop\bin\Debug\FonDesktop.exe.config
+E:\Документы-stud\prog\FonDesktop\bin\Debug\FonDesktop.exe
+E:\Документы-stud\prog\FonDesktop\bin\Debug\FonDesktop.pdb
+E:\Документы-stud\prog\FonDesktop\obj\Debug\FonDesktop.csproj.AssemblyReference.cache
+E:\Документы-stud\prog\FonDesktop\obj\Debug\FonDesktop.csproj.CoreCompileInputs.cache
+E:\Документы-stud\prog\FonDesktop\obj\Debug\FonDesktop.exe
+E:\Документы-stud\prog\FonDesktop\obj\Debug\FonDesktop.pdb

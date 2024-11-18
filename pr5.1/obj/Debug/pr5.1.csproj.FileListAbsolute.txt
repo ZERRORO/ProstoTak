@@ -1,0 +1,10 @@
+E:\Документы-stud\prog\pr51\bin\Debug\pr51.exe.config
+E:\Документы-stud\prog\pr51\bin\Debug\pr51.exe
+E:\Документы-stud\prog\pr51\obj\Debug\pr5.1.csproj.AssemblyReference.cache
+E:\Документы-stud\prog\pr51\obj\Debug\pr51.Form1.resources
+E:\Документы-stud\prog\pr51\obj\Debug\pr51.Properties.Resources.resources
+E:\Документы-stud\prog\pr51\obj\Debug\pr5.1.csproj.GenerateResource.cache
+E:\Документы-stud\prog\pr51\obj\Debug\pr5.1.csproj.CoreCompileInputs.cache
+E:\Документы-stud\prog\pr51\obj\Debug\pr51.exe
+E:\Документы-stud\prog\pr51\obj\Debug\pr51.pdb
+E:\Документы-stud\prog\pr51\bin\Debug\pr51.pdb
